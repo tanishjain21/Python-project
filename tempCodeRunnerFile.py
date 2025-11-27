@@ -1,1 +1,0 @@
-print("load data is called")
